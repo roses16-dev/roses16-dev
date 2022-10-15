@@ -1,12 +1,20 @@
-### Hi there👋
----
+
 <div align="center">
-  <h4> 
-    😆Kim Minjoo / 📚Learning React / 🌏Korea
-  </h4>
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roses16-dev&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8" align="right" />
+ <div>
+  <h3>  Kim Minjoo 🌹</h3>
+
+  <hr> 
+  
+   
+ </div>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roses16-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<h4>📌 Devlog : https://roses16-dev.github.io</h4>
+<h4>📚 Learning</h4>
+<div>
+ <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=black"/>
+</div>
 
-<!-- ![][SD]
- [SD]: https://img.shields.io/badge/-JavaScript-C24866?logo=JavaScript&logoColor=white -->
