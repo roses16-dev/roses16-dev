@@ -1,7 +1,7 @@
 
 <div align="center">
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roses16-dev&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8" align="right" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roses16-dev&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8" align="right" /> -->
  <div>
   <h3>  Kim Minjoo 🌹</h3>
 
