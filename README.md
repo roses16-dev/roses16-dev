@@ -9,7 +9,7 @@
  </div>
 </div>
 
-<h4>📌 Devlog : https://velog.io/@roses16-dev</h4>
+<h4>📌 Devlog : https://roses16-dev.tistory.com/</h4>
 <h4>📚 Learning</h4>
 <div>
  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
